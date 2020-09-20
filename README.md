@@ -4,7 +4,7 @@
 
 ### Here's some information about me:
 
-💬 I’m a brazilian student who lives in Florianópolis.<br>
+💬 I’m a information systems student who lives in Florianópolis.<br>
 :mortar_board: Graduated in Physical Education.<br>
 💻 Developing projects with Python.<br>
 ⚽ Sports fan.<br>
