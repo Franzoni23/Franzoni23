@@ -1,14 +1,14 @@
 ### Matheus Franzoni Machado :brazil:
-:pencil:Writer of poems and codes.:pencil:
+:pencil: Writer of poems and codes.
 
 
 ### Here's some information about me:
 
-💬 I’m a 20 year old brazilian student who lives in Florianópolis.
-:mortar_board: Graduated in Physical Education.
-💻 Developing projects with Python.
-⚽ Sports fan.
-🌎 Life lover and eternal apprentice.
+💬 I’m a 20 year old brazilian student who lives in Florianópolis.<br>
+:mortar_board: Graduated in Physical Education.<br>
+💻 Developing projects with Python.<br>
+⚽ Sports fan.<br>
+🌎 Life lover and eternal apprentice.<br>
 
 
 ### Programming languages and Tools:
